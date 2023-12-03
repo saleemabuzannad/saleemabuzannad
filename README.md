@@ -15,4 +15,8 @@
 
 __this will be bold__
 
-*this format is ittalec* 
+*This format is ittalec* 
+
+1. this is my list
+2. list
+3. list 
