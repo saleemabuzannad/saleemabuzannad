@@ -17,6 +17,6 @@ __this will be bold__
 
 *This format is ittalec* 
 
-1. this is my list
-2. list
-3. list 
+- this is my list
+- list
+- list 
